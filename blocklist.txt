@@ -1,0 +1,6 @@
+# blocklist.txt: one IP address per line; lines starting with # are comments.
+# Uses documentation-only ranges (RFC 5737 / RFC 3849), never real hosts.
+192.0.2.10
+198.51.100.23
+203.0.113.5
+2001:db8::1
